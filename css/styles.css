@@ -81,6 +81,7 @@ div.iris div {
     height: 6px;
     background-color: black;
     border-radius: 3px;
+    transform: translate(-50%, -50%);
 }
 
 
